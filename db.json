@@ -1,0 +1,49 @@
+{
+  "enquiry": [
+    {
+      "firstName": "seif",
+      "lastName": "tl",
+      "email": "tlijaniseif86@gmail.com",
+      "mobile": "20542787",
+      "weight": "84",
+      "height": 1.8,
+      "bmi": 0.5555555555555556,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Monthly",
+      "important": [
+        "Fitness",
+        "Gym",
+        "Bodybuilding",
+        "Strength Training",
+        "Weightlifting",
+        "Powerlifting"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2024-06-19T23:00:00.000Z",
+      "id": "da3a"
+    },
+    {
+      "id": "b89a",
+      "firstName": "amin",
+      "lastName": "amin",
+      "email": "amin@gmail.com",
+      "mobile": "20545221",
+      "weight": "70",
+      "height": 1.5,
+      "bmi": null,
+      "bmiResult": "Fat",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Workout Gym",
+        "Weight Training",
+        "Muscle Fitness"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2024-06-21T23:00:00.000Z"
+    }
+  ]
+}
