@@ -3,7 +3,7 @@
   <span> GymJoiner</span>
   <span class="example-spacer"></span>
 
-  <button mat-raised-button color="accent">
+  <button [routerLink]="['/list']" mat-raised-button color="accent">
     Check Requests
   </button>
 </mat-toolbar>
@@ -11,5 +11,4 @@
 
 <div class="container">
   <router-outlet></router-outlet>
-
 </div>
